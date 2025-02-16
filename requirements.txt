@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+vosk
+deep-translator
+gtts
+playsound
+numpy
